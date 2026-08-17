@@ -1,0 +1,96 @@
+<svg
+  class="home-network-svg"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1000 720"
+  preserveAspectRatio="xMidYMid meet"
+  role="img"
+  aria-hidden="true"
+  focusable="false"
+>
+  <g id="network-edges-permanent">
+    <line id="edge-eg-a1-a2" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a1" data-target="node-a2" x1="112" y1="126" x2="178" y2="94" />
+    <line id="edge-eg-a1-a5" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a1" data-target="node-a5" x1="112" y1="126" x2="148" y2="188" />
+    <line id="edge-eg-a2-a3" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a2" data-target="node-a3" x1="178" y1="94" x2="246" y2="118" />
+    <line id="edge-eg-a2-a6" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a2" data-target="node-a6" x1="178" y1="94" x2="220" y2="176" />
+    <line id="edge-eg-a3-a4" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a3" data-target="node-a4" x1="246" y1="118" x2="322" y2="102" />
+    <line id="edge-eg-a3-a6" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a3" data-target="node-a6" x1="246" y1="118" x2="220" y2="176" />
+    <line id="edge-eg-a3-a7" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a3" data-target="node-a7" x1="246" y1="118" x2="292" y2="194" />
+    <line id="edge-eg-a4-a8" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a4" data-target="node-a8" x1="322" y1="102" x2="360" y2="162" />
+    <line id="edge-eg-a5-a6" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a5" data-target="node-a6" x1="148" y1="188" x2="220" y2="176" />
+    <line id="edge-eg-a5-a9" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a5" data-target="node-a9" x1="148" y1="188" x2="194" y2="256" />
+    <line id="edge-eg-a6-a7" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a6" data-target="node-a7" x1="220" y1="176" x2="292" y2="194" />
+    <line id="edge-eg-a6-a9" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a6" data-target="node-a9" x1="220" y1="176" x2="194" y2="256" />
+    <line id="edge-eg-a7-a8" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a7" data-target="node-a8" x1="292" y1="194" x2="360" y2="162" />
+    <line id="edge-eg-a7-a10" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a7" data-target="node-a10" x1="292" y1="194" x2="286" y2="272" />
+    <line id="edge-eg-a9-a10" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="egalitarian" data-source="node-a9" data-target="node-a10" x1="194" y1="256" x2="286" y2="272" />
+
+    <line id="edge-hi-b1-b2" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b1" data-target="node-b2" x1="734" y1="190" x2="646" y2="130" />
+    <line id="edge-hi-b1-b3" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b1" data-target="node-b3" x1="734" y1="190" x2="812" y2="128" />
+    <line id="edge-hi-b1-b4" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b1" data-target="node-b4" x1="734" y1="190" x2="724" y2="282" />
+    <line id="edge-hi-b2-b5" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b2" data-target="node-b5" x1="646" y1="130" x2="588" y2="96" />
+    <line id="edge-hi-b2-b6" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b2" data-target="node-b6" x1="646" y1="130" x2="602" y2="214" />
+    <line id="edge-hi-b2-b3" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b2" data-target="node-b3" x1="646" y1="130" x2="812" y2="128" />
+    <line id="edge-hi-b3-c1" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b3" data-target="node-c1" x1="812" y1="128" x2="882" y2="194" />
+    <line id="edge-hi-b3-c2" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b3" data-target="node-c2" x1="812" y1="128" x2="898" y2="108" />
+    <line id="edge-hi-b4-b7" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b4" data-target="node-b7" x1="724" y1="282" x2="670" y2="330" />
+    <line id="edge-hi-b4-b8" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b4" data-target="node-b8" x1="724" y1="282" x2="784" y2="324" />
+    <line id="edge-hi-b6-b4" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b6" data-target="node-b4" x1="602" y1="214" x2="724" y2="282" />
+    <line id="edge-hi-b8-c1" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="hierarchical" data-source="node-b8" data-target="node-c1" x1="784" y1="324" x2="882" y2="194" />
+
+    <line id="edge-mo-c3-c4" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-c3" data-target="node-c4" x1="286" y1="484" x2="356" y2="452" />
+    <line id="edge-mo-c4-m1" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-c4" data-target="node-m1" x1="356" y1="452" x2="332" y2="544" />
+    <line id="edge-mo-m1-c3" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-m1" data-target="node-c3" x1="332" y1="544" x2="286" y2="484" />
+    <line id="edge-mo-c5-iso" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-c5" data-target="node-iso" x1="524" y1="490" x2="620" y2="454" />
+    <line id="edge-mo-iso-m2" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-iso" data-target="node-m2" x1="620" y1="454" x2="594" y2="548" />
+    <line id="edge-mo-m2-c5" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-m2" data-target="node-c5" x1="594" y1="548" x2="524" y2="490" />
+    <line id="edge-mo-c4-m3" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-c4" data-target="node-m3" x1="356" y1="452" x2="438" y2="424" />
+    <line id="edge-mo-m3-c5" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-m3" data-target="node-c5" x1="438" y1="424" x2="524" y2="490" />
+    <line id="edge-mo-m3-m4" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-m3" data-target="node-m4" x1="438" y1="424" x2="486" y2="584" />
+    <line id="edge-mo-m4-m2" class="network-edge network-edge-permanent" data-edge-type="internal" data-edge-group="modular" data-source="node-m4" data-target="node-m2" x1="486" y1="584" x2="594" y2="548" />
+
+    <line id="edge-bridge-a8-b2" class="network-edge network-edge-permanent network-edge-bridge" data-edge-type="bridge" data-source="node-a8" data-target="node-b2" x1="360" y1="162" x2="646" y2="130" />
+    <line id="edge-bridge-a10-b4" class="network-edge network-edge-permanent network-edge-bridge" data-edge-type="bridge" data-source="node-a10" data-target="node-b4" x1="286" y1="272" x2="724" y2="282" />
+    <line id="edge-bridge-a9-m3" class="network-edge network-edge-permanent network-edge-bridge" data-edge-type="bridge" data-source="node-a9" data-target="node-m3" x1="194" y1="256" x2="438" y2="424" />
+    <line id="edge-bridge-b4-m4" class="network-edge network-edge-permanent network-edge-bridge" data-edge-type="bridge" data-source="node-b4" data-target="node-m4" x1="724" y1="282" x2="486" y2="584" />
+  </g>
+
+  <g id="network-edges-temporary"></g>
+
+  <g id="network-nodes-permanent">
+    <circle id="node-a1" class="network-node network-node-permanent" data-node-id="node-a1" data-group="egalitarian" data-role="member" cx="112" cy="126" r="5.2" fill="#315C63" fill-opacity="0.58" />
+    <circle id="node-a2" class="network-node network-node-permanent" data-node-id="node-a2" data-group="egalitarian" data-role="member" cx="178" cy="94" r="5" fill="#315C63" fill-opacity="0.54" />
+    <circle id="node-a3" class="network-node network-node-permanent" data-node-id="node-a3" data-group="egalitarian" data-role="member" cx="246" cy="118" r="5.1" fill="#315C63" fill-opacity="0.55" />
+    <circle id="node-a4" class="network-node network-node-permanent" data-node-id="node-a4" data-group="egalitarian" data-role="member" cx="322" cy="102" r="5" fill="#315C63" fill-opacity="0.53" />
+    <circle id="node-a5" class="network-node network-node-permanent" data-node-id="node-a5" data-group="egalitarian" data-role="member" cx="148" cy="188" r="5.2" fill="#315C63" fill-opacity="0.56" />
+    <circle id="node-a6" class="network-node network-node-permanent" data-node-id="node-a6" data-group="egalitarian" data-role="member" cx="220" cy="176" r="5.1" fill="#315C63" fill-opacity="0.55" />
+    <circle id="node-a7" class="network-node network-node-permanent" data-node-id="node-a7" data-group="egalitarian" data-role="member" cx="292" cy="194" r="5.4" fill="#315C63" fill-opacity="0.58" />
+    <circle id="node-a8" class="network-node network-node-permanent" data-node-id="node-a8" data-group="egalitarian" data-role="member" cx="360" cy="162" r="5" fill="#315C63" fill-opacity="0.53" />
+    <circle id="node-a9" class="network-node network-node-permanent" data-node-id="node-a9" data-group="egalitarian" data-role="member" cx="194" cy="256" r="5.1" fill="#315C63" fill-opacity="0.55" />
+    <circle id="node-a10" class="network-node network-node-permanent" data-node-id="node-a10" data-group="egalitarian" data-role="member" cx="286" cy="272" r="5.3" fill="#315C63" fill-opacity="0.57" />
+
+    <circle id="node-b1" class="network-node network-node-permanent" data-node-id="node-b1" data-group="hierarchical" data-role="hub" cx="734" cy="190" r="7.6" fill="#315C63" fill-opacity="0.7" />
+    <circle id="node-b2" class="network-node network-node-permanent" data-node-id="node-b2" data-group="hierarchical" data-role="intermediate" cx="646" cy="130" r="5.9" fill="#315C63" fill-opacity="0.63" />
+    <circle id="node-b3" class="network-node network-node-permanent" data-node-id="node-b3" data-group="hierarchical" data-role="intermediate" cx="812" cy="128" r="5.9" fill="#315C63" fill-opacity="0.63" />
+    <circle id="node-b4" class="network-node network-node-permanent" data-node-id="node-b4" data-group="hierarchical" data-role="intermediate" cx="724" cy="282" r="5.8" fill="#315C63" fill-opacity="0.62" />
+    <circle id="node-b5" class="network-node network-node-permanent" data-node-id="node-b5" data-group="hierarchical" data-role="periphery" cx="588" cy="96" r="4.8" fill="#315C63" fill-opacity="0.52" />
+    <circle id="node-b6" class="network-node network-node-permanent" data-node-id="node-b6" data-group="hierarchical" data-role="periphery" cx="602" cy="214" r="4.8" fill="#315C63" fill-opacity="0.52" />
+    <circle id="node-b7" class="network-node network-node-permanent" data-node-id="node-b7" data-group="hierarchical" data-role="periphery" cx="670" cy="330" r="4.7" fill="#315C63" fill-opacity="0.5" />
+    <circle id="node-b8" class="network-node network-node-permanent" data-node-id="node-b8" data-group="hierarchical" data-role="periphery" cx="784" cy="324" r="4.8" fill="#315C63" fill-opacity="0.52" />
+    <circle id="node-c1" class="network-node network-node-permanent" data-node-id="node-c1" data-group="hierarchical" data-role="periphery" cx="882" cy="194" r="4.7" fill="#315C63" fill-opacity="0.5" />
+    <circle id="node-c2" class="network-node network-node-permanent" data-node-id="node-c2" data-group="hierarchical" data-role="periphery" cx="898" cy="108" r="4.6" fill="#315C63" fill-opacity="0.49" />
+
+    <circle id="node-c3" class="network-node network-node-permanent" data-node-id="node-c3" data-group="modular" data-role="member" data-cluster="module-a" cx="286" cy="484" r="4.8" fill="#315C63" fill-opacity="0.52" />
+    <circle id="node-c4" class="network-node network-node-permanent" data-node-id="node-c4" data-group="modular" data-role="member" data-cluster="module-a" cx="356" cy="452" r="4.9" fill="#315C63" fill-opacity="0.53" />
+    <circle id="node-m1" class="network-node network-node-permanent" data-node-id="node-m1" data-group="modular" data-role="member" data-cluster="module-a" cx="332" cy="544" r="4.7" fill="#315C63" fill-opacity="0.5" />
+    <circle id="node-c5" class="network-node network-node-permanent" data-node-id="node-c5" data-group="modular" data-role="member" data-cluster="module-b" cx="524" cy="490" r="4.9" fill="#315C63" fill-opacity="0.53" />
+    <circle id="node-iso" class="network-node network-node-permanent" data-node-id="node-iso" data-group="modular" data-role="member" data-cluster="module-b" cx="620" cy="454" r="4.8" fill="#315C63" fill-opacity="0.51" />
+    <circle id="node-m2" class="network-node network-node-permanent" data-node-id="node-m2" data-group="modular" data-role="member" data-cluster="module-b" cx="594" cy="548" r="4.8" fill="#315C63" fill-opacity="0.52" />
+    <circle id="node-m3" class="network-node network-node-permanent" data-node-id="node-m3" data-group="modular" data-role="broker" cx="438" cy="424" r="6.1" fill="#315C63" fill-opacity="0.68" />
+    <circle id="node-m4" class="network-node network-node-permanent" data-node-id="node-m4" data-group="modular" data-role="broker" cx="486" cy="584" r="5.9" fill="#315C63" fill-opacity="0.66" />
+
+    <circle id="node-fa1" class="network-node network-node-permanent" data-node-id="node-fa1" data-group="free-agent" data-role="free-agent" cx="944" cy="286" r="5.8" fill="#B58E49" fill-opacity="0.72" />
+    <circle id="node-fa2" class="network-node network-node-permanent" data-node-id="node-fa2" data-group="free-agent" data-role="free-agent" cx="782" cy="608" r="5.7" fill="#B58E49" fill-opacity="0.71" />
+  </g>
+
+  <g id="network-event-overlays"></g>
+</svg>

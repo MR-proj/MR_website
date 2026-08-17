@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Massimo Rusconi"
+  search: false
+  navbar:
+    pinned: true
+    logo-href: index.qmd#home
+    left:
+      - href: index.qmd#home
+        text: Home
+      - href: index.qmd#academic
+        text: Academic
+      - href: index.qmd#industry
+        text: Industry
+      - href: index.qmd#skills
+        text: Skills & Interests
+      - href: index.qmd#cv
+        text: CV
+      - href: index.qmd#contact
+        text: Contact
+  page-footer:
+    left: "&copy; 2026 Massimo Rusconi"
+    right: "[Academic](index.qmd#academic) &middot; [Industry](index.qmd#industry) &middot; [Skills & Interests](index.qmd#skills) &middot; [CV](index.qmd#cv) &middot; [Contact](index.qmd#contact) &middot; [massimo.rusconi@uninsubria.it](mailto:massimo.rusconi@uninsubria.it)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    title-block-style: none

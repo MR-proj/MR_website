@@ -1,0 +1,19 @@
+```{=html}
+<section class="site-shell site-shell--narrow">
+  <div class="single-card-layout">
+    <article class="main-card single-card">
+      <p class="page-eyebrow">CV</p>
+      <h2 class="one-page-title">Curriculum vitae</h2>
+      <p class="single-card__lead">This page will provide access to the public PDF version of my curriculum vitae.</p>
+      <section class="soft-card cv-status-card" aria-label="CV availability">
+        <div class="cv-status-card__header">
+          <h2>Public PDF</h2>
+          <span class="status-badge">Not yet available</span>
+        </div>
+        <p>The public PDF version of my curriculum vitae will be added here.</p>
+      </section>
+      <!-- Insert the public CV PDF link here when the final file is available in the website project. -->
+    </article>
+  </div>
+</section>
+```

@@ -1,0 +1,69 @@
+---
+title: "Skills & Interests"
+description: "Computational methods, analytical tools and languages used across academic and professional work."
+toc: false
+page-layout: full
+title-block: false
+body-classes: skills-page
+---
+
+```{=html}
+<section class="site-shell skills-shell">
+  <header class="page-hero skills-hero">
+    <p class="page-eyebrow">Profile</p>
+    <h1>Skills &amp; Interests</h1>
+  </header>
+
+  <section class="main-card skills-intro-card">
+    <p>My skills combine methodological reasoning, computational modelling, data analysis, and process-oriented problem solving across academic research and professional work.</p>
+  </section>
+
+  <section class="section-band section-band--soft skills-methods-band">
+    <div class="content-stack">
+      <h2 class="section-heading">Computational methods and tools</h2>
+
+      <div class="skills-method-grid">
+        <article class="soft-card skills-method-card">
+          <h3>Modelling and simulation</h3>
+          <p class="skills-method-card__tool">NetLogo <span>Advanced</span></p>
+          <p>I use NetLogo to develop and explore agent-based simulation models.</p>
+        </article>
+
+        <article class="soft-card skills-method-card">
+          <h3>Data analysis</h3>
+          <p class="skills-method-card__tool">Python and R <span>Intermediate</span></p>
+          <p>I use Python and R for data preparation, analysis and computational research.</p>
+        </article>
+
+        <article class="soft-card skills-method-card">
+          <h3>Data and workflow organisation</h3>
+          <p class="skills-method-card__tool">MongoDB <span>Basic</span></p>
+          <p>I use MongoDB and repeatable workflows for collecting, organising and storing data.</p>
+        </article>
+
+        <article class="soft-card skills-method-card">
+          <h3>Academic writing</h3>
+          <p class="skills-method-card__tool">LyX / Overleaf <span>Intermediate</span></p>
+          <p>I use LyX and Overleaf for academic writing and collaborative manuscript preparation.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="main-card languages-card">
+    <h2>Languages</h2>
+    <dl class="definition-list">
+      <div><dt>Italian</dt><dd>Native speaker</dd></div>
+      <div><dt>English</dt><dd>Fluent in written and spoken English (C1)</dd></div>
+      <div><dt>German</dt><dd>Fluent in written and spoken German (C1)</dd></div>
+    </dl>
+  </section>
+
+  <section class="main-card further-interests-card">
+    <h2>Further interests</h2>
+    <p>Beyond my academic and professional work, I enjoy engaging with several branches of philosophy, including epistemology, critical theory, systems theory, philosophy of religion and, occasionally, political theory, as well as science and technology studies. My philosophical background lies mainly in the Platonic and Neoplatonic traditions, understood in a broad sense.</p>
+    <p>Through a rather unusual turn of events, I have also developed an extensive interest in&mdash;and knowledge of&mdash;microbiology, which I continue to deepen.</p>
+    <p>That said, my main ambition in life is to spend as much time as possible lying in thermal pools or by the sea, ideally with the composure of a sea otter. Everything else is a secondary achievement.</p>
+  </section>
+</section>
+```

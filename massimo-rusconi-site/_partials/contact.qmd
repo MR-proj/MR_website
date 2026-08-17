@@ -1,0 +1,25 @@
+```{=html}
+<section class="site-shell site-shell--narrow">
+  <div class="single-card-layout">
+    <article class="main-card single-card contact-card">
+      <p class="page-eyebrow">Contact</p>
+      <h2 class="one-page-title">Get in touch</h2>
+      <p class="single-card__lead">For academic collaboration, teaching, research projects or professional enquiries, you can contact me at:</p>
+      <div class="contact-context-grid">
+        <section class="soft-card contact-context-card">
+          <h2>Academic</h2>
+          <p>Research collaboration, teaching and research projects.</p>
+        </section>
+
+        <section class="soft-card contact-context-card">
+          <h2>Professional</h2>
+          <p>Innovation, project coordination and data-analysis enquiries.</p>
+        </section>
+      </div>
+      <p class="contact-card__address">
+        <a class="contact-email-link" href="mailto:massimo.rusconi@uninsubria.it">massimo.rusconi@uninsubria.it</a>
+      </p>
+    </article>
+  </div>
+</section>
+```

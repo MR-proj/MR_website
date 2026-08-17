@@ -1,0 +1,538 @@
+---
+title: "Academic"
+description: "Research, publications, teaching and academic activities in economic methodology, agent-based modelling and innovation dynamics."
+page-layout: full
+toc: false
+title-block: false
+body-classes: academic-page
+---
+
+::: {.site-shell .academic-shell}
+
+```{=html}
+<header class="page-hero academic-hero">
+  <p class="page-eyebrow">Academic</p>
+  <h1>Economic Methodologist and Innovation Economist</h1>
+</header>
+
+<section class="main-card academic-about-card">
+  <p>Economics and computational modelling are at the core of my research. I study how models and simulations are designed, evaluated, and used to explain complex economic and social phenomena and inform decision-making. My work combines economic methodology and agent-based modelling, with applications to innovation dynamics, knowledge diffusion, model selection, causal interpretation, and model credibility.</p>
+  <p>I also investigate institutional and algorithmic decision-making, participatory methods, and methodological issues in survey and experimental research. Across these areas, I focus on how assumptions, research design, and modelling choices affect the reliability, interpretation, and practical use of results.</p>
+  <p class="academic-about-card__contact"><a class="action-link" href="mailto:massimo.rusconi@uninsubria.it">massimo.rusconi@uninsubria.it</a></p>
+</section>
+```
+
+::: {.section-band .section-band--soft .academic-primary-band}
+::: {.content-stack}
+
+## Research Interests
+
+```{=html}
+<div class="theme-grid" aria-label="Research interests">
+  <article class="soft-card theme-card">
+    <h3>Models and evaluation</h3>
+    <p>Model credibility, model selection, analogy, causal interpretation and the epistemology of simulation.</p>
+  </article>
+  <article class="soft-card theme-card">
+    <h3>Simulation and innovation</h3>
+    <p>Agent-based modelling, social simulation, innovation dynamics, knowledge production and system learning. I use NetLogo to develop and explore agent-based simulation models.</p>
+  </article>
+  <article class="soft-card theme-card">
+    <h3>Institutions and methods</h3>
+    <p>Algorithmic decision-making, participatory methods, and methodological problems in survey and experimental research.</p>
+  </article>
+</div>
+```
+
+## Academic Appointments
+
+### Current {.unlisted}
+
+```{=html}
+<div class="timeline-list" aria-label="Current academic positions and affiliations">
+  <article class="timeline-entry">
+    <div class="timeline-date">June 2025&ndash;present</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>External Affiliate</h3>
+      <p class="record-card__meta">Social Simulation Laboratory (TISSS Lab), Johannes Gutenberg University Mainz</p>
+      <p class="record-card__submeta">Mainz, Germany</p>
+    </div>
+  </article>
+
+  <article class="timeline-entry">
+    <div class="timeline-date">June 2025&ndash;present</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Teaching Fellow ("Cultore della Materia")</h3>
+      <p class="record-card__meta">University of Insubria</p>
+      <p class="record-card__submeta">Varese, Italy</p>
+    </div>
+  </article>
+</div>
+```
+
+### Previous {.unlisted}
+
+```{=html}
+<div class="timeline-list" aria-label="Previous academic positions and affiliations">
+  <article class="timeline-entry">
+    <div class="timeline-date">February 2026&ndash;May 2026</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Adjunct Lecturer (teaching contract)</h3>
+      <p class="record-card__meta">University of Insubria</p>
+      <p class="record-card__submeta">Varese, Italy</p>
+    </div>
+  </article>
+
+  <article class="timeline-entry">
+    <div class="timeline-date">October 2022&ndash;June 2025</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Guest Researcher</h3>
+      <p class="record-card__meta">Department of Economics of Innovation, University of Hohenheim</p>
+      <p class="record-card__submeta">Stuttgart, Germany</p>
+    </div>
+  </article>
+
+  <article class="timeline-entry">
+    <div class="timeline-date">October 2022&ndash;November 2024</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Visiting Scholar</h3>
+      <p class="record-card__meta">Technology and Innovation Sociology / Social Simulation Laboratory (TISSS Lab), Johannes Gutenberg University Mainz</p>
+      <p class="record-card__submeta">Mainz, Germany</p>
+    </div>
+  </article>
+
+  <article class="timeline-entry">
+    <div class="timeline-date">November 2020&ndash;November 2023</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Teaching Fellow ("Cultore della Materia")</h3>
+      <p class="record-card__meta">University of Insubria</p>
+      <p class="record-card__submeta">Varese, Italy</p>
+    </div>
+  </article>
+</div>
+```
+
+## Education
+
+```{=html}
+<div class="timeline-list" aria-label="Education">
+  <article class="timeline-entry">
+    <div class="timeline-date">November 2020&ndash;June 2025</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>PhD in Methods and Models for Economic Decisions</h3>
+      <p class="record-card__meta">University of Insubria</p>
+      <p class="record-card__submeta">Varese, Italy</p>
+      <p class="record-card__detail"><strong>Dissertation title:</strong> <em>Essays on Simulation, Analogy, and Economic Methodology in Modeling Innovation and the Evolution of Ideas</em></p>
+      <ul class="detail-list">
+        <li>Final evaluation: Excellent, summa cum laude</li>
+        <li>Supervisors: Prof. Raffaello Seri (University of Insubria); Prof. Davide Secchi (University of Southern Denmark)</li>
+        <li>Jury committee: Prof. Andrea Vezzulli (University of Insubria); Prof. Bruce Edmonds (Centre for Policy Modelling, Manchester Metropolitan University Business School); Prof. John Symons (University of Kansas)</li>
+        <li>First assessment: Prof. Jes&uacute;s Mario Siqueiros-Garc&iacute;a; Dr. Martin Neumann</li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="timeline-entry">
+    <div class="timeline-date">March 2019&ndash;December 2019</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Postgraduate Second-Level Master in Data Science for Economics, Business and Finance</h3>
+      <p class="record-card__meta">University of Milan</p>
+      <p class="record-card__submeta">Milan, Italy</p>
+      <p class="record-card__detail">Final report on developing a web scraper for the real-estate sector, including data cleansing and storage.</p>
+    </div>
+  </article>
+
+  <article class="timeline-entry">
+    <div class="timeline-date">September 2016&ndash;February 2018</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Master's Degree in International Business and Economics (Double Degree)</h3>
+      <p class="record-card__meta">University of Hohenheim</p>
+      <p class="record-card__submeta">Stuttgart, Germany</p>
+      <p class="record-card__detail">Master's thesis on the impact of automation and machine learning on the labour market, with a focus on the theoretical applicability of the Responsible Research and Innovation (RRI) framework to technological unemployment.</p>
+      <ul class="detail-list">
+        <li>First supervisor: Prof. Andreas Pyka</li>
+        <li>Second supervisor: Prof. Carlo Santo Brambilla</li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="timeline-entry">
+    <div class="timeline-date">September 2015&ndash;March 2018</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Master's Degree in Global Entrepreneurship Economics and Management, specialization in Economics of Innovation (LM-77, Double Degree)</h3>
+      <p class="record-card__meta">University of Insubria</p>
+      <p class="record-card__submeta">Varese, Italy</p>
+    </div>
+  </article>
+
+  <article class="timeline-entry">
+    <div class="timeline-date">April 2014&ndash;August 2014</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Erasmus Programme</h3>
+      <p class="record-card__meta">Albert-Ludwigs University of Freiburg</p>
+      <p class="record-card__submeta">Freiburg im Breisgau, Germany</p>
+    </div>
+  </article>
+
+  <article class="timeline-entry">
+    <div class="timeline-date">September 2011&ndash;July 2015</div>
+    <div class="timeline-rail" aria-hidden="true"><span class="timeline-node"></span></div>
+    <div class="record-card timeline-card">
+      <h3>Bachelor in Philosophy</h3>
+      <p class="record-card__meta">University of San Raffaele</p>
+      <p class="record-card__submeta">Milan, Italy</p>
+      <p class="record-card__detail">Bachelor's thesis on the theodicy of Pavel Florenskij.</p>
+      <ul class="detail-list">
+        <li>Supervisor: Prof. Piero Coda</li>
+      </ul>
+    </div>
+  </article>
+</div>
+```
+
+:::
+:::
+
+::: {.content-stack .academic-secondary-stack}
+
+## Publications
+
+### Published and Accepted Peer-Reviewed Journal Articles {.unlisted}
+
+```{=html}
+<div class="publication-grid" aria-label="Published and accepted peer-reviewed journal articles">
+  <article class="record-card publication-card">
+    <div class="publication-card__header">
+      <span class="status-badge">Journal article</span>
+      <span class="publication-card__year">2026</span>
+    </div>
+    <h4>Model trustworthiness and modeler responsibility in economic agent-based modeling practices: A meta-analytical approach</h4>
+    <p class="publication-card__authors">Rusconi, M., Secchi, D., &amp; Seri, R.</p>
+    <p class="publication-card__meta"><em>Journal of Economic Methodology</em>, 1-21. Published article.</p>
+    <p class="publication-card__description">Examines credibility and trustworthiness in economic agent-based modelling, emphasising the modeller's responsibility for aligning purposes, targets and modelling strategies. It proposes a meta-analytical framework for reducing model mistargeting and misuse through greater transparency and consistency.</p>
+    <p class="publication-card__actions"><a class="action-link" href="https://doi.org/10.1080/1350178X.2026.2617538">DOI</a></p>
+  </article>
+
+  <article class="record-card publication-card">
+    <div class="publication-card__header">
+      <span class="status-badge">Journal article</span>
+      <span class="publication-card__year">2026</span>
+    </div>
+    <h4>Investigating the analytical robustness of the social and behavioural sciences</h4>
+    <p class="publication-card__authors">Aczel, B., Szaszi, B., K&oacute;sa, L. et al.</p>
+    <p class="publication-card__meta"><em>Nature</em>. Published article.</p>
+    <p class="publication-card__actions"><a class="action-link" href="https://doi.org/10.1038/s41586-025-09844-9">DOI</a></p>
+  </article>
+
+  <article class="record-card publication-card">
+    <div class="publication-card__header">
+      <span class="status-badge">Journal article</span>
+      <span class="publication-card__year">2025</span>
+    </div>
+    <h4>The analogical roots of agent-based modeling in economics and social sciences: The case of innovation dynamics</h4>
+    <p class="publication-card__authors">Rusconi, M., Secchi, D., &amp; Seri, R.</p>
+    <p class="publication-card__meta"><em>Journal of Economic Methodology</em>, 1-24. Published article.</p>
+    <p class="publication-card__description">Develops an analogical framework for evaluating the conceptual adequacy of economic agent-based models across their conceptual, algorithmic and computational layers. The framework is applied to the SKIN and K+S families of innovation models.</p>
+    <p class="publication-card__actions"><a class="action-link" href="https://doi.org/10.1080/1350178X.2025.2547639">DOI</a></p>
+  </article>
+
+  <article class="record-card publication-card">
+    <div class="publication-card__header">
+      <span class="status-badge">Journal article</span>
+      <span class="publication-card__year">2025</span>
+    </div>
+    <h4>Investigating conspiracy beliefs: methodological biases and experimental challenges</h4>
+    <p class="publication-card__authors">Gagliardi, L., &amp; Rusconi, M.</p>
+    <p class="publication-card__meta"><em>Journal of Economic Methodology</em>, 1-21. Published article.</p>
+    <p class="publication-card__description">Reviews methodological biases in research on conspiracy beliefs, focusing on social-desirability effects, survey spillovers and the limitations of explicit self-reported measures. It also examines the conceptual and practical difficulties involved in developing survey-free experimental approaches.</p>
+    <p class="publication-card__actions"><a class="action-link" href="https://doi.org/10.1080/1350178X.2025.2539253">DOI</a></p>
+  </article>
+</div>
+```
+
+## Submitted and revised manuscripts {#submitted-manuscripts}
+
+### Revise and resubmit {.unlisted}
+
+```{=html}
+<div class="pipeline-grid" aria-label="Revise and resubmit papers">
+  <article class="record-card pipeline-card">
+    <div class="pipeline-card__header">
+      <span class="status-badge status-badge--revision">Revise and resubmit</span>
+    </div>
+    <h4>On the utility of the models: Bridging together the theoretical and analytical sides of model selection</h4>
+    <p>Rusconi, M., &amp; Seri, R.</p>
+    <p class="record-card__detail">Revise and resubmit at <em>Journal of Economic Methodology</em>.</p>
+  </article>
+</div>
+```
+
+### Submitted manuscripts {.unlisted}
+
+```{=html}
+<div class="pipeline-grid" aria-label="Submitted papers">
+  <article class="record-card pipeline-card">
+    <div class="pipeline-card__header">
+      <span class="status-badge status-badge--submitted">Submitted</span>
+    </div>
+    <h4>Model selection as a multiple-criteria optimization problem</h4>
+    <p>Seri, R., &amp; Rusconi, M.</p>
+    <p class="record-card__detail">Submitted to <em>Optimization</em>.</p>
+  </article>
+
+  <article class="record-card pipeline-card">
+    <div class="pipeline-card__header">
+      <span class="status-badge status-badge--submitted">Submitted</span>
+    </div>
+    <h4>Scratching the surface: The use of participatory methods to uncover wicked topics in the light of eco-lab requirements</h4>
+    <p>Rusconi, M., Gagliardi, L., Sp&auml;th, E., &amp; Seri, R.</p>
+    <p class="record-card__detail">Submitted to <em>Journal of Economic Methodology</em>.</p>
+  </article>
+</div>
+```
+
+## Teaching
+
+```{=html}
+<div class="teaching-grid" aria-label="Teaching roles">
+  <article class="record-card teaching-card">
+    <p class="record-card__date">June 2025&ndash;present</p>
+    <h3>Teaching Fellow ("Cultore della Materia")</h3>
+    <p class="record-card__meta">University of Insubria, Varese, Italy</p>
+    <p class="record-card__detail">Teaching and examination support for:</p>
+    <ul class="detail-list">
+      <li><em>Econometrics of Competitive and Regulated Markets</em>, MSc in Global Entrepreneurship Economics and Management</li>
+      <li><em>Econometrics for Finance</em>, MSc in Economics, Law and Corporate Finance</li>
+      <li><em>Econometrics and Big Data</em>, BSc in Economics and Management of Innovation and Sustainability</li>
+    </ul>
+  </article>
+
+  <article class="record-card teaching-card">
+    <p class="record-card__date">February 2026&ndash;May 2026</p>
+    <h3>Adjunct Lecturer (teaching contract)</h3>
+    <p class="record-card__meta">University of Insubria, Varese, Italy</p>
+    <p class="record-card__detail">Course:</p>
+    <ul class="detail-list">
+      <li><em>Seminar in Industrial Dynamics and Evolution</em>, Master's Degree Programme in Global Entrepreneurship Economics and Management</li>
+    </ul>
+  </article>
+
+  <article class="record-card teaching-card">
+    <p class="record-card__date">November 2020&ndash;November 2023</p>
+    <h3>Teaching Fellow ("Cultore della Materia")</h3>
+    <p class="record-card__meta">University of Insubria, Varese, Italy</p>
+    <p class="record-card__detail">Teaching and examination support for:</p>
+    <ul class="detail-list">
+      <li><em>Economics of Innovation</em>, MSc in Global Entrepreneurship Economics and Management</li>
+    </ul>
+  </article>
+</div>
+```
+
+:::
+
+::: {.section-band .section-band--soft .academic-activities-band}
+::: {.content-stack}
+
+## Grants and Awards
+
+```{=html}
+<div class="event-grid event-grid--compact" aria-label="Grants and awards">
+  <article class="record-card event-card">
+    <p class="record-card__date">May 26, 2023</p>
+    <h3>INEM Young Scholar Award 2023</h3>
+    <p class="record-card__meta">International Network for Economic Method (INEM), Venice, Italy</p>
+    <p class="record-card__detail">For "Investigating conspiracy beliefs: methodological and experimental challenges."</p>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">November 2020&ndash;September 2024</p>
+    <h3>PhD Scholarship</h3>
+    <p class="record-card__meta">University of Insubria, Varese, Italy</p>
+  </article>
+</div>
+```
+
+## Academic Activities
+
+### Invited Talks {.unlisted}
+
+```{=html}
+<div class="event-grid event-grid--compact" aria-label="Invited talks">
+  <article class="record-card event-card">
+    <p class="record-card__date">October 2023</p>
+    <h3>Invited talk</h3>
+    <p class="record-card__meta">High Performance Computing Center, Stuttgart, Germany</p>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">June 2023</p>
+    <h3>Invited talk</h3>
+    <p class="record-card__meta">University of Mainz, Mainz, Germany</p>
+  </article>
+</div>
+```
+
+### Conference Presentations {.unlisted}
+
+```{=html}
+<div class="event-stack" aria-label="Conference presentations">
+  <article class="record-card event-card">
+    <p class="record-card__date">July 1&ndash;4, 2026</p>
+    <h3>International Joseph A. Schumpeter Society Conference</h3>
+    <p class="record-card__meta">University of Strasbourg, Strasbourg, France</p>
+    <ul class="detail-list">
+      <li>Rusconi, M., &amp; Seri, R. "Innovation Dynamics under Endogenous Influence: An Agent-Based Modeling Perspective." Presenting author.</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">May 20&ndash;22, 2026</p>
+    <h3>8th International Conference Economic Philosophy</h3>
+    <p class="record-card__meta">University of Lorraine, Nancy, France</p>
+    <ul class="detail-list">
+      <li>Rusconi, M., &amp; Seri, R. "On the Causal Interpretation of Agent-Based Economic Models: Epistemic Entitlements and Inferential Use." Presenting author.</li>
+      <li>Seri, R., &amp; Rusconi, M. "Model Selection as a decision problem."</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">April 22&ndash;24, 2026</p>
+    <h3>Workshop on Natural Disasters and Labor Market Resilience</h3>
+    <p class="record-card__meta">Johannes Gutenberg University Mainz, Mainz, Germany</p>
+    <ul class="detail-list">
+      <li>Rusconi, M. "Climate Change and the Labor Market: The Contribution of Agent-Based Modeling." Presenting author.</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">September 17&ndash;19, 2025</p>
+    <h3>International Network for Economic Method 2025</h3>
+    <p class="record-card__meta">Bayreuth, Germany</p>
+    <ul class="detail-list">
+      <li>Rusconi, M., &amp; Seri, R. "On the utility of the models: Bridging together the theoretical and analytical sides of model selection." Presenting author.</li>
+      <li>Rusconi, M., &amp; Gagliardi, L. "Scratching the surface: The use of participatory methods to uncover wicked topics in the light of eco-lab requirements." Presenting author.</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">May 29&ndash;31, 2024</p>
+    <h3>7th International Conference Economic Philosophy</h3>
+    <p class="record-card__meta">University of Reims Champagne-Ardenne, Reims, France</p>
+    <ul class="detail-list">
+      <li>Rusconi, M., Secchi, D., &amp; Seri, R. "Model Trustworthiness and Modeler Responsibility in Economic Agent-Based Modeling practices: a Meta-Analytical approach." Presenting author.</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">March 8&ndash;9, 2024</p>
+    <h3>Economic Methodology: Models, Measurement, and Intervention Conference</h3>
+    <p class="record-card__meta">Stanford University, Stanford, United States</p>
+    <ul class="detail-list">
+      <li>Rusconi, M., Secchi, D., &amp; Seri, R. "Model Trustworthiness and Modeler Responsibility in Economic Agent-Based Modeling practices: a Meta-Analytical approach." Presenting author.</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">November 30&ndash;December 2, 2023</p>
+    <h3>The Science and Art of Simulation Conference 2023</h3>
+    <p class="record-card__meta">HLRS, Stuttgart, Germany</p>
+    <ul class="detail-list">
+      <li>Rusconi, M., Secchi, D., &amp; Seri, R. "Model Trustworthiness and Modeler Responsibility in Economic Agent-Based Modeling practices: a Meta-Analytical approach." Presenting author.</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">July 3&ndash;5, 2023</p>
+    <h3>International Association of Computing and Philosophy Conference 2023</h3>
+    <p class="record-card__meta">IACAP, Prague, Czech Republic</p>
+    <ul class="detail-list">
+      <li>Rusconi, M., Secchi, D., &amp; Seri, R. "Understanding the analogical roots of Agent-Based Models in economics and social sciences." Presenting author.</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">May 23&ndash;26, 2023</p>
+    <h3>Annual Modeling and Simulation Conference 2023</h3>
+    <p class="record-card__meta">SCS, Hamilton, Canada</p>
+    <ul class="detail-list">
+      <li>Wurster, D., Sp&auml;th, E., Luque-Capellas, B., Ahrweiler, P., Rusconi, M., &amp; Siqueiros, J. (WiP). "Using Agent Based Modelling and Participatory Systems Modelling to Create Serious Games with an Artificial Intelligence Simulating Component."</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">May 24&ndash;26, 2023</p>
+    <h3>International Network for Economic Method 2023</h3>
+    <p class="record-card__meta">Venice, Italy</p>
+    <ul class="detail-list">
+      <li>Gagliardi, L., &amp; Rusconi, M. "Investigating conspiracy beliefs: methodological and experimental challenges."</li>
+      <li>Rusconi, M., Secchi, D., &amp; Seri, R. "Understanding the analogical roots of Agent-Based Models in economics and social sciences." Presenting author.</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">September 25&ndash;27, 2022</p>
+    <h3>Workshop: Model Evaluation and Causal Search: Empirical and Experimental Approaches</h3>
+    <p class="record-card__meta">Scuola Superiore Sant'Anna, Pisa, Italy</p>
+    <ul class="detail-list">
+      <li>Rusconi, M. "Computer Simulations as Iterated Analogies: a viable framework for the epistemology of simulation in the social sciences." Presenting author.</li>
+    </ul>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">September 12&ndash;16, 2022</p>
+    <h3>Social Simulation Conference 2022</h3>
+    <p class="record-card__meta">ESSA, Milan, Italy</p>
+    <ul class="detail-list">
+      <li>Rusconi, M., Secchi, D., &amp; Seri, R. "Computer Simulations as Iterated Analogies: a viable framework for the epistemology of simulation in the social sciences." Presenting author.</li>
+    </ul>
+  </article>
+</div>
+```
+
+### Summer Schools and Workshops {.unlisted}
+
+```{=html}
+<div class="event-stack" aria-label="Summer schools and workshops">
+  <article class="record-card event-card">
+    <p class="record-card__date">June 5&ndash;9, 2023</p>
+    <h3>The Bioeconomy Transformation: Science, Economics, Business and Society</h3>
+    <p class="record-card__meta">Lake Como School of Advanced Studies, Como, Italy</p>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">July 11&ndash;15, 2022</p>
+    <h3>Summer School: Agent-based models in Economics: theory, toolkit and policy laboratories</h3>
+    <p class="record-card__meta">Scuola Superiore Sant'Anna, Pisa, Italy</p>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">June 27&ndash;July 1, 2022</p>
+    <h3>Summer School: Second Lake Como Summer School on Economic Behaviours: Models, Measurements, and Policies</h3>
+    <p class="record-card__meta">Lake Como School of Advanced Studies, Como, Italy</p>
+    <p class="record-card__detail">Associated presentation: "Computer Simulations as Iterated Analogies: a viable framework for the epistemology of simulation in the social sciences."</p>
+  </article>
+
+  <article class="record-card event-card">
+    <p class="record-card__date">May 4&ndash;6, 2022</p>
+    <h3>Research Workshop: Agent-based Modelling of Political Polarization</h3>
+    <p class="record-card__meta">Research Training Group "Bounded Rationality, Heterogeneity and Network Effects," University of Bamberg, Bamberg, Germany</p>
+  </article>
+</div>
+```
+
+:::
+:::
+
+:::

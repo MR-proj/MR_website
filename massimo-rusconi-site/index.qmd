@@ -1,0 +1,37 @@
+---
+title: "Massimo Rusconi"
+description: "Personal website of Massimo Rusconi, researcher and innovation project manager working across economic methodology, simulation and project coordination."
+toc: false
+page-layout: full
+title-block: false
+body-classes: one-page-site
+---
+
+:::::: {#home .one-page-section .one-page-section--home}
+{{< include _partials/home.qmd >}}
+::::::
+
+:::::: {#academic .one-page-section .one-page-section--academic}
+{{< include _partials/academic.qmd >}}
+::::::
+
+:::::: {#industry .one-page-section .one-page-section--industry}
+{{< include _partials/industry.qmd >}}
+::::::
+
+:::::: {#skills .one-page-section .one-page-section--skills}
+{{< include _partials/skills-interests.qmd >}}
+::::::
+
+:::::: {#cv .one-page-section .one-page-section--cv}
+{{< include _partials/cv.qmd >}}
+::::::
+
+:::::: {#contact .one-page-section .one-page-section--contact}
+{{< include _partials/contact.qmd >}}
+::::::
+
+```{=html}
+<script defer src="assets/js/network-animation.js"></script>
+<script defer src="assets/js/one-page-navigation.js"></script>
+```

@@ -1,0 +1,61 @@
+---
+title: "Industry"
+description: "Innovation and project management, process improvement and automated data workflows in construction and real estate."
+toc: false
+page-layout: full
+title-block: false
+body-classes: industry-page
+---
+
+```{=html}
+<section class="site-shell industry-shell">
+  <header class="page-hero">
+    <p class="page-eyebrow">Industry</p>
+    <h1>Innovation &amp; Project Management</h1>
+  </header>
+
+  <section class="main-card industry-intro-card">
+    <p>My industry work focuses on innovation and project management in construction and real estate. I support project coordination, cost monitoring, process improvement, and data-informed decision-making. I also develop automated workflows for collecting, structuring, and analysing real-estate data, improving the efficiency, consistency, and traceability of recurring analytical tasks.</p>
+  </section>
+
+  <div class="industry-experience-grid">
+    <article class="record-card industry-role-card">
+      <p class="record-card__date">Since March 2026</p>
+      <h2>Current role</h2>
+      <p class="record-card__meta">Innovation and Project Manager, INCO Costruzioni Generali</p>
+      <p class="record-card__submeta">Seveso, Italy</p>
+      <p class="record-card__detail">I support project coordination, cost monitoring and process-improvement activities, and contribute to data-supported analysis for construction and real-estate projects.</p>
+    </article>
+
+    <article class="record-card industry-role-card">
+      <p class="record-card__date">June 2018&ndash;September 2020</p>
+      <h2>Earlier experience</h2>
+      <p class="record-card__meta">Junior Project Manager, INCO Costruzioni Generali</p>
+      <p class="record-card__submeta">Seveso, Italy</p>
+      <p class="record-card__detail">I completed a technical apprenticeship focused on maintaining a real-estate dataset through automated data collection, cleaning and storage, while also supporting cost monitoring, invoice tracking and contract-related documentation.</p>
+    </article>
+  </div>
+
+  <section class="section-band section-band--soft">
+    <div class="content-stack">
+      <h2 class="section-heading">Practice areas</h2>
+      <div class="industry-practice-grid">
+        <article class="soft-card industry-practice-card">
+          <h3>Project and cost monitoring</h3>
+          <p>I support project coordination and cost-monitoring activities, including the organisation of project information and the tracking of invoices and contract-related documentation.</p>
+        </article>
+
+        <article class="soft-card industry-practice-card">
+          <h3>Process and information flows</h3>
+          <p>I contribute to process-improvement activities by examining how operational information is collected, organised and reused across recurring project tasks.</p>
+        </article>
+
+        <article class="soft-card industry-practice-card">
+          <h3>Automated data workflows</h3>
+          <p>I develop repeatable workflows for collecting, cleaning, storing and analysing real-estate data, with the aim of making recurring analyses more efficient, consistent and reusable.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+</section>
+```
