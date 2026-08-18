@@ -3,7 +3,13 @@ Massimo Rusconi's curriculi website.
 
 ## Requirements 
 - [Quarto](#https://quarto.org/)
-# How to host
+
+## Host
+### How to look at a preview
 ```sh
 quarto preview
+```
+### How to host a site
+```sh
+quarto render
 ```
