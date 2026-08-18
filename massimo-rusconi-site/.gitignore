@@ -3,4 +3,4 @@
 **/*.quarto_ipynb
 
 # Generated
-_site/**
+**/_site/
