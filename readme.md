@@ -1,5 +1,5 @@
-# Massimo Rusconi Web Site
-Massimo Rusconi's curriculi website.
+# Massimo Rusconi Website
+Just my personal webpage.
 
 ## Requirements 
 - [Quarto](#https://quarto.org/)
