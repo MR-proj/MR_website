@@ -9,16 +9,19 @@
         <section class="soft-card contact-context-card">
           <h2>Academic</h2>
           <p>Research collaboration, teaching and research projects.</p>
+          <p class="contact-context-card__address">
+            <a class="contact-email-link" href="mailto:massimo.rusconi@uninsubria.it">massimo.rusconi@<wbr>uninsubria.it</a>
+          </p>
         </section>
 
         <section class="soft-card contact-context-card">
-          <h2>Professional</h2>
-          <p>Innovation, project coordination and data-analysis enquiries.</p>
+          <h2>Professional / General</h2>
+          <p>Innovation, project coordination, data-analysis and general professional enquiries.</p>
+          <p class="contact-context-card__address">
+            <a class="contact-email-link" href="mailto:massimo.rusconi.91@gmail.com">massimo.rusconi.91@<wbr>gmail.com</a>
+          </p>
         </section>
       </div>
-      <p class="contact-card__address">
-        <a class="contact-email-link" href="mailto:massimo.rusconi@uninsubria.it">massimo.rusconi@uninsubria.it</a>
-      </p>
     </article>
   </div>
 </section>

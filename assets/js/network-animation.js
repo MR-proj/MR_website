@@ -318,24 +318,24 @@
       return {
         x:
           470 +
-          Math.sin(TAU * elapsedSeconds / 48) * 125 * scale +
-          (Math.sin(TAU * elapsedSeconds / 21 + 0.5) - Math.sin(0.5)) * 18 * scale,
+          Math.sin(TAU * elapsedSeconds / 48) * 138 * scale +
+          (Math.sin(TAU * elapsedSeconds / 21 + 0.5) - Math.sin(0.5)) * 20 * scale,
         y:
           114 +
-          Math.sin(TAU * elapsedSeconds / 39) * 58 * scale +
-          (Math.sin(TAU * elapsedSeconds / 27 + 1.1) - Math.sin(1.1)) * 12 * scale
+          Math.sin(TAU * elapsedSeconds / 39) * 62 * scale +
+          (Math.sin(TAU * elapsedSeconds / 27 + 1.1) - Math.sin(1.1)) * 13 * scale
       };
     }
 
     return {
       x:
         500 +
-        Math.sin(TAU * elapsedSeconds / 54) * 135 * scale +
-        (Math.sin(TAU * elapsedSeconds / 25 + 1.4) - Math.sin(1.4)) * 16 * scale,
+        Math.sin(TAU * elapsedSeconds / 54) * 148 * scale +
+        (Math.sin(TAU * elapsedSeconds / 25 + 1.4) - Math.sin(1.4)) * 18 * scale,
       y:
         190 +
-        Math.sin(TAU * elapsedSeconds / 43) * 62 * scale +
-        (Math.sin(TAU * elapsedSeconds / 31 + 0.7) - Math.sin(0.7)) * 12 * scale
+        Math.sin(TAU * elapsedSeconds / 43) * 66 * scale +
+        (Math.sin(TAU * elapsedSeconds / 31 + 0.7) - Math.sin(0.7)) * 13 * scale
     };
   };
 

@@ -22,13 +22,20 @@ website:
         text: Contact
   page-footer:
     left: "&copy; 2026 Massimo Rusconi"
-    right: "[Academic](index.qmd#academic) &middot; [Industry](index.qmd#industry) &middot; [Skills & Interests](index.qmd#skills) &middot; [CV](index.qmd#cv) &middot; [Contact](index.qmd#contact) &middot; [massimo.rusconi@uninsubria.it](mailto:massimo.rusconi@uninsubria.it)"
+    right: "[massimo.rusconi@uninsubria.it](mailto:massimo.rusconi@uninsubria.it)"
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light:
+        - cosmo
+        - brand
+      dark:
+        - cosmo
+        - brand
+        - theme-dark.scss
     css: styles.css
+    include-before-body: _partials/scientific-background.html
     toc: true
     title-block-style: none
+    respect-user-color-scheme: true
